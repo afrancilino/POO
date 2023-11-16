@@ -1,7 +1,0 @@
-/**
- * CalculadoraBhaskara
- */
-public class CalculadoraBhaskara {
-
-    
-}
