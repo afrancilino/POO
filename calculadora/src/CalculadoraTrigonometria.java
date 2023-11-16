@@ -1,0 +1,7 @@
+/**
+ * CalculadoraTrigonometria
+ */
+public class CalculadoraTrigonometria {
+
+    
+}
