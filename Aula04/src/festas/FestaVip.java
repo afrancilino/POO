@@ -12,11 +12,11 @@ public class FestaVip {
 
     private void beberCafe() {
         quantidadeCafe--;
-        System.out.println("Bebeu uma xícara de café");
+        System.out.println("Bebeu " + quantidadeCafe + " xícara de café");
     }
 
     private void comerSalgado() {
         quantidadeSalgado--;
-        System.out.println("Comeu cinco salgados");
+        System.out.println("Comeu " + quantidadeSalgado + " salgados");
     }
 }
