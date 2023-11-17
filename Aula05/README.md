@@ -1,0 +1,1 @@
+Implementação e necessidade dos métodos GET e SET para acessar os atributos de uma classe.
